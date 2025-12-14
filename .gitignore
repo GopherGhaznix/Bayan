@@ -7,9 +7,15 @@
 *.dll
 *.so
 *.dylib
+main
+bayan
 
 # Test binary, built with `go test -c`
 *.test
+
+# Sample websites
+websites/
+_/
 
 # Code coverage profiles and other test artifacts
 *.out
